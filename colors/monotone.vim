@@ -57,8 +57,8 @@ hi  WildMenu      guifg=#000000  guibg=#aaaaaa  gui=NONE    ctermfg=16    ctermb
 hi  clear         FoldColumn
 hi  clear         SignColumn
 
-hi  MatchParen  guifg=#000000  guibg=#dd9922  ctermfg=16 ctermbg=214
-hi  ParenMatch  guifg=#000000  guibg=#dd9922  ctermfg=16 ctermbg=214
+" hi  MatchParen  guifg=#000000  guibg=#dd9922  ctermfg=16 ctermbg=214
+" hi  ParenMatch  guifg=#000000  guibg=#dd9922  ctermfg=16 ctermbg=214
 
 hi Pmenu      guifg=#999999 guibg=#242220 gui=NONE      ctermfg=246  ctermbg=235 cterm=NONE
 hi PmenuSbar  guifg=NONE    guibg=#242220 gui=NONE      ctermfg=NONE ctermbg=235 cterm=NONE
